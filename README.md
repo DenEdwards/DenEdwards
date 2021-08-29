@@ -8,13 +8,6 @@
 
 # Some of the Projects I've Worked on
 
-<!-- Ai Vision -->
-## 👀 <a href="https://inventor.city/ai/vision">Ai Vision</a>
-<h4>
-  Learn how an AI vision recognition system works by finding its mistakes. By examining and discussing the results, 
-  you will learn more about how AI makes decisions, and how society is impacted by errors.
-</h4><br />
-
 <!-- Predict A Pie -->
 ## 🥧 <a href="https://predict-a-pie.glitch.me/">Predict A Pie</a>
 <h4>
@@ -33,6 +26,12 @@
    Digitally design your own sunglasses here. Get them laser cut to be ready to wear for any occasion! 
 </h4><br />
 
+<!-- Ai Vision -->
+## 👀 <a href="https://inventor.city/ai/vision">Ai Vision</a>
+<h4>
+  Learn how an AI vision recognition system works by finding its mistakes. By examining and discussing the results, 
+  you will learn more about how AI makes decisions, and how society is impacted by errors.
+</h4><br />
 
 <!-- Chatbot Engine -->
 ## 💬 <a href="https://glitch.com/edit/#!/chatbot-engine-en?path=README.md%3A1%3A0">Chatbot Engine</a>

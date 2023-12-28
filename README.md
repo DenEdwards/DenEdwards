@@ -1,8 +1,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
-<h1 align="center">
-  👋 <a href="https://denedwards.github.io/"> Hi, I’m Denzel </a>
+<h1 align="center"> 
+  <a href="https://denedwards.github.io/"> Hi, I’m Denzel </a>
   <br /><br />
-  <span> I'm  a web developer dedicated to creating beautiful and immersive websites and applications.</span>
+  <span> I'm  a Full Stack Developer dedicated to creating efficient, scalable and tested software.</span>
 </h1>
 <br />
 
@@ -12,12 +12,6 @@
 ## 🥧 <a href="https://predict-a-pie.glitch.me/">Predict A Pie</a>
 <h4>
   In this activity, you can build a real, working Neural Network.
-</h4><br />
-
-<!-- Weather Watch -->
-## ⛅ <a href="https://which-weather-app.herokuapp.com/">Weather Watch</a>
-<h4>
-  A Weather App that allows you to see weather information from around the world.
 </h4><br />
 
 <!-- Sunglasses Activity -->
@@ -41,7 +35,7 @@
 
 <!-- CONTACT -->
 <h3 align="center">
-  ☎️ <a href="https://denedwards.github.io/">Personal Site</a> | <a href="https://www.linkedin.com/in/denzel-edwards-093927170">LinkedIn</a> ☎️
+  <a href="https://denedwards.github.io/">Personal Site</a> | <a href="https://www.linkedin.com/in/denzel-edwards-093927170">LinkedIn</a> 
 <h3>
 
 

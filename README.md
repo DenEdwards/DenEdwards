@@ -1,6 +1,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <h1 align="center"> 
-  <a href="https://denedwards.github.io/"> Hi, I’m Denzel </a>
+  <a href="https://www.denzeledwards.ca/"> Hi, I’m Denzel </a>
   <br /><br />
   <span> I'm  a Full Stack Developer dedicated to creating efficient, scalable and tested software.</span>
 </h1>
@@ -35,7 +35,7 @@
 
 <!-- CONTACT -->
 <h3 align="center">
-  <a href="https://denedwards.github.io/">Personal Site</a> | <a href="https://www.linkedin.com/in/denzel-edwards-093927170">LinkedIn</a> 
+  <a href="https://www.denzeledwards.ca">Personal Site</a> | <a href="https://www.linkedin.com/in/denzel-edwards-093927170">LinkedIn</a> 
 <h3>
 
 
